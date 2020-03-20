@@ -203,7 +203,7 @@ class SessionInfo implements IInfoSection {
    *   The private structure held by Meteor for the documents of a subscription.
    */
   protected _buildDocumentCountsPerSubscription(documents: ISubscriptionDocuments): void {
-    const entries: Array<[string, IDocumentIds]> = Object.entries(documents);
+    const entries: [string, IDocumentIds][] = Object.entries(documents);
     for (const entry of entries) {
       // Inlining the destructuring in for() loses type information, so do it here.
       const [type, document] = entry;

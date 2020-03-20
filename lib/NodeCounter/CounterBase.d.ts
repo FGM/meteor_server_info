@@ -25,7 +25,7 @@ declare class CounterBase implements IInfoSection {
      *   A "console.log(sprintf(" compatible function.
      */
     constructor(log?: LogFunction);
-    static readonly LAP: number;
+    static get LAP(): number;
     getInfo(): IInfoData;
     /**
      * Describe the contents returned by getLastPoll().
