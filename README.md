@@ -8,6 +8,7 @@
 [![Build Status](https://travis-ci.org/fgm/meteor_server_info.svg?branch=master)](https://travis-ci.org/fgm/meteor_server_info)
 [![codecov](https://codecov.io/gh/fgm/meteor_server_info/branch/master/graph/badge.svg)](https://codecov.io/gh/fgm/meteor_server_info)
 [![Known Vulnerabilities](https://snyk.io/test/github/fgm/meteor_server_info/badge.svg?targetFile=package.json)](https://snyk.io/test/github/fgm/meteor_server_info?targetFile=package.json)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffgm%2Fmeteor_server_info.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffgm%2Fmeteor_server_info?ref=badge_shield)
 
 ## Usage
 
@@ -134,6 +135,9 @@ As the original [percolate:server-info] package was licensed under the
 permissive MIT license, this derivative work has been relicensed under the
 General Public License version 3 or later (SPDX: GPL-3.0+).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffgm%2Fmeteor_server_info.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffgm%2Fmeteor_server_info?ref=badge_large)
 
 ## Changelog
 
